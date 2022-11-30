@@ -1,0 +1,1 @@
+# The major difference between an Array and a Hash, is that in a Hash you use keys and assign values to them, in hashes you also cannot use the same key more than once. Arrays have to do with storing values without keys.
